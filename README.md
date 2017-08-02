@@ -1,2 +1,1 @@
-# DLFN
-Projects for Udacity's DLFN
+Udacity deep learning and Tensorflow projects
